@@ -1,0 +1,923 @@
+month,exporter,importer_country,importer_state,dollars_value
+Nov 2020,Canada,United States,Alabama,9022251
+Feb 2021,Canada,United States,Alabama,7611976
+Apr 2021,Canada,United States,Alabama,8875073
+Jul 2021,Canada,United States,Alabama,8965117
+May 2022,Canada,United States,Alabama,22445468
+Aug 2022,Canada,United States,Alabama,15239356
+Jan 2023,Canada,United States,Alabama,22955414
+Oct 2021,Canada,United States,Arizona,2601565
+Nov 2021,Canada,United States,Arizona,2623492
+Nov 2022,Canada,United States,Arizona,104241
+Jun 2021,Canada,United States,California,589520
+Oct 2021,Canada,United States,California,124682
+Nov 2021,Canada,United States,California,53783
+May 2021,Canada,United States,Connecticut,45710
+Jul 2021,Canada,United States,Connecticut,31674
+Aug 2023,Canada,United States,Connecticut,9019
+Nov 2020,Canada,United States,Florida,7329
+Apr 2021,Canada,United States,Florida,187319
+May 2021,Canada,United States,Florida,11863
+Aug 2021,Canada,United States,Florida,92473
+Oct 2022,Canada,United States,Florida,426050
+Nov 2022,Canada,United States,Florida,552868
+Sep 2022,Canada,United States,Georgia,12918
+Dec 2022,Canada,United States,Georgia,87129
+Jan 2023,Canada,United States,Georgia,26427
+Jan 2021,Canada,United States,Illinois,76379
+May 2022,Canada,United States,Illinois,14029
+Sep 2020,Canada,United States,Indiana,16290
+Nov 2020,Canada,United States,Indiana,27387
+Dec 2020,Canada,United States,Indiana,25596
+Mar 2021,Canada,United States,Indiana,62115
+Jul 2021,Canada,United States,Indiana,16332
+Apr 2022,Canada,United States,Indiana,54251
+Jul 2022,Canada,United States,Indiana,78223
+Sep 2022,Canada,United States,Indiana,254447
+Jun 2021,Canada,United States,Iowa,27297
+Apr 2022,Canada,United States,Kentucky,10621
+Jun 2022,Canada,United States,Louisiana,99515
+Nov 2020,Canada,United States,Maryland,83766
+May 2021,Canada,United States,Maryland,10265
+Dec 2022,Canada,United States,Maryland,73614
+Sep 2020,Canada,United States,Michigan,2969733
+Nov 2020,Canada,United States,Michigan,3351718
+Jun 2022,Canada,United States,Michigan,3091199
+Oct 2022,Canada,United States,Michigan,979035
+Nov 2022,Canada,United States,Michigan,7534539
+Mar 2023,Canada,United States,Michigan,2181033
+Sep 2022,Canada,United States,Minnesota,90709
+Jun 2023,Canada,United States,Missouri,939044
+Jul 2022,Canada,United States,Nevada,47046
+Sep 2023,Canada,United States,Nevada,8003
+Apr 2022,Canada,United States,New Jersey,4115
+Jan 2021,Canada,United States,New York,568758
+May 2021,Canada,United States,New York,1280205
+Aug 2021,Canada,United States,New York,1891049
+Feb 2022,Canada,United States,New York,55176
+May 2022,Canada,United States,New York,616687
+Aug 2022,Canada,United States,New York,192854
+Feb 2023,Canada,United States,New York,124118
+Aug 2021,Canada,United States,North Carolina,41939
+Sep 2020,Canada,United States,Ohio,1486678
+Jan 2021,Canada,United States,Ohio,812693
+Feb 2021,Canada,United States,Ohio,1031509
+Jun 2021,Canada,United States,Ohio,962556
+Jul 2021,Canada,United States,Ohio,747686
+Aug 2021,Canada,United States,Ohio,500690
+Apr 2022,Canada,United States,Ohio,1171682
+Sep 2022,Canada,United States,Ohio,735313
+Jun 2023,Canada,United States,Ohio,719094
+Aug 2023,Canada,United States,Ohio,545289
+Sep 2023,Canada,United States,Ohio,1457448
+Sep 2021,Canada,United States,Oregon,372990
+May 2021,Canada,United States,Pennsylvania,42773
+Jul 2021,Canada,United States,Pennsylvania,67257
+Aug 2022,Canada,United States,Pennsylvania,114310
+May 2023,Canada,United States,Pennsylvania,479109
+Aug 2023,Canada,United States,Pennsylvania,79346
+Mar 2021,Canada,United States,South Carolina,11366
+Aug 2021,Canada,United States,Texas,89188
+Dec 2021,Canada,United States,Texas,83936
+Oct 2020,Canada,United States,Virginia,14699
+Dec 2021,Canada,United States,Virginia,17720
+Mar 2022,Canada,United States,Virginia,6919
+Dec 2022,Canada,United States,Virginia,19029
+Mar 2022,Canada,United States,Washington,2436156
+Oct 2020,Canada,United States,Wisconsin,303895
+Nov 2020,Canada,United States,Wisconsin,212775
+Dec 2020,Canada,United States,Wisconsin,157710
+Mar 2021,Canada,United States,Wisconsin,209477
+Sep 2022,Canada,United States,Wisconsin,238891
+Dec 2022,Canada,United States,Wisconsin,125325
+Feb 2023,Canada,United States,Wisconsin,93733
+Feb 2021,Canada,United States,Wyoming,19741
+Oct 2020,Canada,United Kingdom,N/A,2299
+Nov 2020,Canada,United Kingdom,N/A,3259
+Nov 2021,Canada,Denmark,N/A,92111
+Dec 2020,Canada,Finland,N/A,304004
+Jun 2022,Canada,France,N/A,270
+May 2023,Canada,France,N/A,1073
+Jun 2023,Canada,France,N/A,1073
+Feb 2021,Canada,Germany,N/A,254100
+Oct 2021,Canada,Germany,N/A,9460796
+Nov 2022,Canada,Germany,N/A,18343905
+Jun 2021,Canada,Norway,N/A,1634531
+Oct 2021,Canada,Norway,N/A,51874
+Nov 2022,Canada,Norway,N/A,1273347
+Feb 2023,Canada,Spain,N/A,390149
+Dec 2020,Canada,Sweden,N/A,147696
+May 2021,Canada,Sweden,N/A,219677
+Jul 2021,Canada,Sweden,N/A,55166
+Jan 2022,Canada,Sweden,N/A,286927
+Aug 2022,Canada,Czechia,N/A,5362630
+Sep 2022,Canada,Czechia,N/A,6069468
+Jan 2023,Canada,Poland,N/A,527001
+Feb 2023,Canada,Poland,N/A,14507011
+Apr 2023,Canada,Estonia,N/A,9712
+Oct 2022,Canada,Ukraine,N/A,3890800
+Jul 2021,Canada,Croatia,N/A,828853
+Feb 2022,Canada,United Arab Emirates,N/A,5936
+Mar 2021,Canada,Saudi Arabia,N/A,228447771
+Oct 2021,Canada,Saudi Arabia,N/A,30246371
+Nov 2021,Canada,Saudi Arabia,N/A,86783310
+Jul 2023,Canada,Saudi Arabia,N/A,1393843
+Jun 2023,Canada,Angola,N/A,386468
+Jun 2022,Canada,Morocco,N/A,1689
+Sep 2020,Canada,Singapore,N/A,8282
+Apr 2021,Canada,Singapore,N/A,1715602
+May 2021,Canada,Singapore,N/A,799947
+Sep 2021,Canada,Singapore,N/A,3187781
+Apr 2022,Canada,Singapore,N/A,1145014
+Jun 2022,Canada,Singapore,N/A,828
+Jan 2023,Canada,Singapore,N/A,1450842
+May 2023,Canada,Singapore,N/A,2139818
+Sep 2023,Canada,Singapore,N/A,2654716
+Jun 2021,Canada,Australia,N/A,34467
+Jul 2021,Canada,Australia,N/A,825504
+Jan 2023,Canada,Australia,N/A,85000
+Aug 2021,Canada,Australia,N/A,819
+Dec 2020,Canada,New Zealand,N/A,2983
+Mar 2022,Canada,New Zealand,N/A,5332
+Dec 2020,Canada,United States,Alabama,11011039
+Jan 2021,Canada,United States,Alabama,7079434
+Jun 2022,Canada,United States,Alabama,21288035
+Mar 2023,Canada,United States,Alabama,24472172
+Apr 2023,Canada,United States,Alabama,29370890
+Oct 2022,Canada,United States,California,1953951
+May 2023,Canada,United States,California,39005
+Sep 2023,Canada,United States,California,790222
+Sep 2023,Canada,United States,Connecticut,20386
+Oct 2021,Canada,United States,Florida,241257
+Jan 2022,Canada,United States,Florida,3751
+Mar 2023,Canada,United States,Florida,90065
+Jun 2023,Canada,United States,Florida,508082
+Aug 2023,Canada,United States,Florida,157739
+Sep 2023,Canada,United States,Florida,105117
+Feb 2021,Canada,United States,Georgia,3702
+Mar 2022,Canada,United States,Georgia,2973
+Dec 2020,Canada,United States,Illinois,20572
+May 2023,Canada,United States,Illinois,331916
+Dec 2021,Canada,United States,Indiana,61312
+May 2022,Canada,United States,Maryland,98495
+Apr 2023,Canada,United States,Indiana,12225
+Sep 2023,Canada,United States,Indiana,41584
+Dec 2020,Canada,United States,Iowa,15932
+Sep 2021,Canada,United States,Iowa,23944
+Oct 2021,Canada,United States,Louisiana,71823
+Dec 2021,Canada,United States,Louisiana,17093
+Mar 2021,Canada,United States,Maryland,178810
+Aug 2021,Canada,United States,Maryland,66377
+Mar 2022,Canada,United States,Maryland,3270
+Feb 2023,Canada,United States,Maryland,9577
+Jun 2022,Canada,United States,Massachusetts,3000
+Jan 2023,Canada,United States,Massachusetts,3512
+Jan 2021,Canada,United States,Michigan,6248790
+Mar 2021,Canada,United States,Michigan,660030
+Aug 2021,Canada,United States,Michigan,2975494
+Sep 2021,Canada,United States,Michigan,879393
+Dec 2021,Canada,United States,Michigan,4752503
+Jan 2022,Canada,United States,Michigan,1374186
+Mar 2022,Canada,United States,Michigan,4353783
+May 2022,Canada,United States,Michigan,561909
+Jul 2023,Canada,United States,Michigan,598566
+Sep 2023,Canada,United States,New Jersey,33618
+Jul 2021,Canada,United States,Minnesota,202271
+Nov 2022,Canada,United States,Minnesota,86667
+Oct 2020,Canada,United States,Minnesota,3316
+Oct 2022,Canada,United States,Missouri,4913
+Sep 2020,Canada,United States,Missouri,411579
+Oct 2022,Canada,United States,Nevada,19523
+May 2021,Canada,United States,New Jersey,5821
+Jun 2021,Canada,United States,New York,844773
+Sep 2021,Canada,United States,New York,389225
+Jan 2022,Canada,United States,New York,2310632
+Apr 2023,Canada,United States,New York,756247
+Jun 2023,Canada,United States,New York,710954
+Oct 2020,Canada,United States,North Carolina,107953
+Sep 2021,Canada,United States,North Carolina,20519
+Mar 2021,Canada,United States,Ohio,1019921
+Nov 2021,Canada,United States,Ohio,744107
+Dec 2022,Canada,United States,Ohio,1351785
+Feb 2023,Canada,United States,Ohio,1314753
+Apr 2021,Canada,United States,Pennsylvania,25979
+Oct 2021,Canada,United States,Pennsylvania,207737
+Jun 2023,Canada,United States,Virginia,246118
+Sep 2020,Canada,United States,Tennessee,264977
+Dec 2020,Canada,United States,Texas,3748
+Mar 2022,Canada,United States,Texas,3375
+Sep 2022,Canada,United States,Vermont,53397
+Dec 2020,Canada,United States,Virginia,15641
+Apr 2021,Canada,United States,Virginia,20843
+Sep 2021,Canada,United States,Virginia,3603783
+Mar 2023,Canada,United States,Virginia,232553
+Jan 2021,Canada,United States,Washington,1946174
+Mar 2021,Canada,United States,Washington,1716589
+Jun 2021,Canada,United States,Washington,2269990
+Apr 2022,Canada,United States,Washington,1649237
+Jul 2022,Canada,United States,Washington,1520108
+Aug 2022,Canada,United States,Washington,836002
+Feb 2023,Canada,United States,Washington,1713664
+May 2023,Canada,United States,Washington,2155843
+Jun 2021,Canada,United States,Wisconsin,131731
+Dec 2021,Canada,United States,Wisconsin,36637
+Aug 2023,Canada,United States,Wisconsin,153251
+Jun 2023,Canada,Austria,N/A,4930
+May 2023,Canada,Belgium,N/A,116642
+Apr 2021,Canada,Denmark,N/A,95299
+Feb 2023,Canada,Denmark,N/A,40456
+Oct 2022,Canada,Germany,N/A,21041780
+Jan 2023,Canada,Germany,N/A,818533
+Feb 2023,Canada,Germany,N/A,82118
+Apr 2023,Canada,Italy,N/A,57120
+Aug 2021,Canada,Norway,N/A,36242
+Nov 2021,Canada,Norway,N/A,36701
+Sep 2023,Canada,Norway,N/A,78600
+Sep 2020,Canada,Sweden,N/A,1249791
+Oct 2021,Canada,Sweden,N/A,183887
+Apr 2022,Canada,Sweden,N/A,66797
+Dec 2022,Canada,Sweden,N/A,735768
+May 2023,Canada,Sweden,N/A,164650
+Feb 2021,Canada,Switzerland,N/A,19041
+Jun 2023,Canada,Poland,N/A,14199620
+Feb 2021,Canada,Estonia,N/A,4483
+Mar 2022,Canada,Kazakhstan,N/A,186832
+Feb 2021,Canada,Kuwait,N/A,1117
+Oct 2022,Canada,Saudi Arabia,N/A,93228904
+Feb 2023,Canada,Saudi Arabia,N/A,162490814
+Jun 2023,Canada,Saudi Arabia,N/A,247052025
+Aug 2023,Canada,Malaysia,N/A,37500
+Feb 2021,Canada,Singapore,N/A,1778776
+Jul 2021,Canada,Singapore,N/A,4802534
+Oct 2021,Canada,Singapore,N/A,1807472
+May 2022,Canada,Singapore,N/A,3242874
+Aug 2022,Canada,Singapore,N/A,1055287
+Feb 2023,Canada,Singapore,N/A,1820519
+Mar 2023,Canada,Singapore,N/A,3529577
+Aug 2023,Canada,Singapore,N/A,4046637
+Mar 2023,Canada,"Korea, South",N/A,570394
+May 2023,Canada,"Korea, South",N/A,742454
+Sep 2021,Canada,Australia,N/A,7598
+Apr 2021,Canada,New Zealand,N/A,12721
+Jun 2021,Canada,New Zealand,N/A,5201
+Dec 2022,Canada,Chile,N/A,114240
+Oct 2021,Canada,United States,Alabama,13405203
+Jan 2022,Canada,United States,Alabama,8777104
+Apr 2022,Canada,United States,Alabama,16623308
+Oct 2022,Canada,United States,Alabama,20675486
+Dec 2022,Canada,United States,Arizona,11565
+Feb 2023,Canada,United States,Arizona,27123
+Jan 2021,Canada,United States,California,118808
+May 2022,Canada,United States,California,474013
+Jun 2023,Canada,United States,California,71822
+Dec 2022,Canada,United States,Colorado,461632
+Apr 2021,Canada,United States,Connecticut,18655
+Sep 2021,Canada,United States,Connecticut,7236
+May 2022,Canada,United States,Connecticut,3985
+Sep 2021,Canada,United States,Florida,166864
+Nov 2021,Canada,United States,Florida,432190
+Jun 2022,Canada,United States,Florida,2982
+Aug 2022,Canada,United States,Florida,549670
+Feb 2022,Canada,United States,Illinois,61316
+Jul 2023,Canada,United States,Illinois,344607
+Oct 2020,Canada,United States,Indiana,26722
+Feb 2022,Canada,United States,Indiana,14516
+Mar 2022,Canada,United States,Indiana,90369
+Jun 2022,Canada,United States,Indiana,58987
+Aug 2022,Canada,United States,Indiana,134690
+Sep 2020,Canada,United States,Maine,10249
+Jan 2022,Canada,United States,Maine,112004
+Oct 2021,Canada,United States,Maryland,30260
+Jan 2023,Canada,United States,Maryland,47579
+May 2023,Canada,United States,Maryland,257218
+Oct 2020,Canada,United States,Maryland,213724
+Dec 2022,Canada,United States,Michigan,830713
+Feb 2021,Canada,United States,Massachusetts,7820
+Jun 2021,Canada,United States,Michigan,3761123
+Oct 2021,Canada,United States,Michigan,815503
+Apr 2022,Canada,United States,Michigan,712296
+Jul 2023,Canada,United States,Minnesota,3353
+Jun 2023,Canada,United States,Montana,64653
+May 2021,Canada,United States,Nevada,7619
+Feb 2023,Canada,United States,Nevada,33695
+Dec 2020,Canada,United States,New York,1119711
+Feb 2021,Canada,United States,New York,2883500
+Mar 2021,Canada,United States,New York,1579258
+Mar 2022,Canada,United States,New York,1859637
+Apr 2022,Canada,United States,New York,605988
+Oct 2022,Canada,United States,New York,158799
+Jan 2023,Canada,United States,New York,125060
+Mar 2023,Canada,United States,New York,49350
+Sep 2020,Canada,United States,North Carolina,17811
+Jul 2022,Canada,United States,Ohio,892912
+Apr 2022,Canada,United States,Oklahoma,6062
+Nov 2020,Canada,United States,Pennsylvania,92518
+Dec 2020,Canada,United States,Pennsylvania,11340
+Jan 2021,Canada,United States,Pennsylvania,491402
+Sep 2021,Canada,United States,Pennsylvania,169598
+Oct 2022,Canada,United States,Pennsylvania,123271
+Jun 2021,Canada,United States,Texas,67368
+Apr 2021,Canada,United States,South Carolina,1300776
+Jul 2021,Canada,United States,South Carolina,4094
+Sep 2021,Canada,United States,South Carolina,64474
+Sep 2022,Canada,United States,South Carolina,4799
+Nov 2021,Canada,United States,Texas,34420
+Sep 2023,Canada,United States,Texas,4481
+Sep 2020,Canada,United States,Virginia,89753
+Feb 2021,Canada,United States,Virginia,26334
+Jan 2023,Canada,United States,Virginia,8813
+Jul 2023,Canada,United States,Virginia,234292
+Jan 2023,Canada,United States,Washington,4906892
+Jul 2022,Canada,United States,District of Columbia,2260970
+Nov 2022,Canada,United States,Wisconsin,73468
+Aug 2021,Canada,United Kingdom,N/A,21950
+Dec 2022,Canada,United Kingdom,N/A,14448
+Nov 2020,Canada,Germany,N/A,57175
+Aug 2022,Canada,Germany,N/A,163600
+Mar 2023,Canada,Germany,N/A,937771
+Jul 2021,Canada,Spain,N/A,481264
+Sep 2023,Canada,Italy,N/A,133643
+Feb 2021,Canada,Norway,N/A,18096
+Feb 2022,Canada,Norway,N/A,297590
+Jan 2023,Canada,Norway,N/A,27730
+Nov 2022,Canada,Portugal,N/A,78045
+Dec 2020,Canada,Spain,N/A,1424922
+Mar 2021,Canada,Spain,N/A,517775
+Dec 2021,Canada,Spain,N/A,346079
+Apr 2022,Canada,Spain,N/A,325082
+Jun 2022,Canada,Spain,N/A,378751
+Nov 2022,Canada,Spain,N/A,371621
+May 2023,Canada,Spain,N/A,729236
+Nov 2020,Canada,Sweden,N/A,319013
+Sep 2021,Canada,Sweden,N/A,110332
+Jun 2022,Canada,Sweden,N/A,1926029
+Aug 2022,Canada,Sweden,N/A,131103
+Jun 2021,Canada,Switzerland,N/A,270492
+Sep 2022,Canada,Switzerland,N/A,1860100
+Nov 2022,Canada,Switzerland,N/A,10800
+Jun 2022,Canada,Czechia,N/A,2780638
+Jul 2022,Canada,Czechia,N/A,5616828
+Apr 2023,Canada,Poland,N/A,41296908
+Aug 2023,Canada,Bosnia and Herzegovina,N/A,989260
+Jan 2023,Canada,Ukraine,N/A,23255494
+Mar 2023,Canada,Ukraine,N/A,38509358
+Jun 2023,Canada,Ukraine,N/A,8492918
+Dec 2020,Canada,United Arab Emirates,N/A,81432
+Jul 2022,Canada,United Arab Emirates,N/A,10418
+Jun 2023,Canada,Burkina Faso,N/A,29
+Jul 2021,Canada,Saudi Arabia,N/A,85320504
+Sep 2021,Canada,Saudi Arabia,N/A,88400238
+May 2022,Canada,Saudi Arabia,N/A,13958284
+Sep 2023,Canada,Nigeria,N/A,392515
+Jan 2023,Canada,India,N/A,809850
+Oct 2020,Canada,Singapore,N/A,7474692
+Mar 2021,Canada,Singapore,N/A,2741
+Mar 2022,Canada,Singapore,N/A,1968692
+Sep 2022,Canada,Singapore,N/A,21141
+Apr 2023,Canada,Singapore,N/A,1427608
+Nov 2021,Canada,China,N/A,82962
+Nov 2020,Canada,Australia,N/A,289873
+Apr 2022,Canada,Australia,N/A,10199
+Apr 2023,Canada,New Zealand,N/A,8679
+Jun 2022,Canada,New Zealand,N/A,8362
+Dec 2020,Canada,Colombia,N/A,28753
+Aug 2021,Canada,Colombia,N/A,62540
+Jan 2023,Canada,Haiti,N/A,2057310
+Aug 2021,Canada,Haiti,N/A,1088479
+Mar 2021,Canada,United States,Alabama,9483963
+May 2021,Canada,United States,Alabama,9240735
+Jul 2022,Canada,United States,Alabama,20170369
+May 2023,Canada,United States,Alabama,22986279
+Sep 2023,Canada,United States,Alabama,24631067
+May 2022,Canada,United States,Arizona,50982
+Jun 2022,Canada,United States,Arizona,9883
+Aug 2021,Canada,United States,Connecticut,120688
+Mar 2022,Canada,United States,Connecticut,3961
+Sep 2023,Canada,United States,Illinois,228201
+Nov 2020,Canada,United States,Georgia,18204
+May 2021,Canada,United States,Indiana,8810
+May 2023,Canada,United States,Indiana,31884
+Sep 2020,Canada,United States,Iowa,14775
+Sep 2023,Canada,United States,Kansas,7509
+Oct 2022,Canada,United States,Kentucky,3274
+Apr 2021,Canada,United States,Louisiana,5654
+Jul 2022,Canada,United States,Louisiana,3407
+Feb 2023,Canada,United States,Massachusetts,18973
+Mar 2023,Canada,United States,Massachusetts,19232
+Jul 2021,Canada,United States,Michigan,7452864
+Apr 2023,Canada,United States,Michigan,3441074
+Aug 2023,Canada,United States,Minnesota,125156
+Sep 2023,Canada,United States,Minnesota,19287
+Nov 2021,Canada,United States,Mississippi,16239
+Dec 2021,Canada,United States,Mississippi,51411
+Apr 2022,Canada,United States,Mississippi,33175
+Dec 2020,Canada,United States,Missouri,4376
+Oct 2020,Canada,United States,Nevada,135547
+Apr 2021,Canada,United States,Nevada,3598
+Nov 2021,Canada,United States,Nevada,721989
+Dec 2022,Canada,United States,Nevada,239806
+Jun 2023,Canada,United States,Nevada,9289
+Nov 2021,Canada,United States,New York,1564038
+Dec 2021,Canada,United States,New York,718108
+Apr 2021,Canada,United States,North Carolina,3720
+Apr 2021,Canada,United States,Ohio,565339
+May 2021,Canada,United States,Ohio,370733
+Mar 2022,Canada,United States,Ohio,1290332
+Oct 2022,Canada,United States,Ohio,1837130
+May 2023,Canada,United States,Ohio,860865
+Apr 2021,Canada,United States,Oklahoma,2762379
+Sep 2020,Canada,United States,Pennsylvania,707795
+Jun 2021,Canada,United States,Pennsylvania,1181496
+Aug 2021,Canada,United States,Pennsylvania,4008562
+Nov 2021,Canada,United States,Pennsylvania,23292
+May 2022,Canada,United States,Pennsylvania,318543
+Jun 2022,Canada,United States,Pennsylvania,222626
+Feb 2023,Canada,United States,Pennsylvania,407391
+Apr 2022,Canada,United States,South Carolina,42652
+Aug 2023,Canada,United States,Rhode Island,40468
+Jul 2023,Canada,United States,South Carolina,349922
+Dec 2022,Canada,United States,Tennessee,5407
+May 2023,Canada,United States,Tennessee,47131
+Oct 2021,Canada,United States,Texas,3096
+Apr 2022,Canada,United States,Texas,2983
+May 2022,Canada,United States,Texas,99968
+May 2021,Canada,United States,Virginia,23614
+Feb 2022,Canada,United States,Virginia,32361
+May 2021,Canada,United States,Washington,2672032
+Jul 2021,Canada,United States,Washington,1568530
+Feb 2022,Canada,United States,Washington,1934876
+Jun 2022,Canada,United States,Washington,1540168
+Nov 2022,Canada,United States,Washington,1559955
+Apr 2023,Canada,United States,Washington,3601498
+Apr 2022,Canada,United States,Wisconsin,14473
+Jul 2022,Canada,United States,Wisconsin,75046
+Aug 2022,Canada,United States,Wisconsin,12467
+Oct 2022,Canada,United States,Wisconsin,81875
+Jul 2023,Canada,United States,Wisconsin,209932
+May 2022,Canada,Germany,N/A,757100
+Sep 2021,Canada,United Kingdom,N/A,22338
+Apr 2023,Canada,United Kingdom,N/A,1867
+Jul 2023,Canada,Austria,N/A,4903
+Nov 2020,Canada,Denmark,N/A,18798
+Feb 2021,Canada,Denmark,N/A,16200
+Jun 2021,Canada,Denmark,N/A,32125
+Sep 2023,Canada,Finland,N/A,115548
+Feb 2021,Canada,France,N/A,34163
+Sep 2021,Canada,Germany,N/A,16212
+Feb 2022,Canada,Germany,N/A,350000
+Sep 2020,Canada,Norway,N/A,231587
+Mar 2021,Canada,Norway,N/A,158254
+Oct 2022,Canada,Norway,N/A,505984
+Jul 2023,Canada,Norway,N/A,14396
+Dec 2021,Canada,Sweden,N/A,773302
+May 2022,Canada,Sweden,N/A,322337
+Mar 2023,Canada,Israel,N/A,34200
+Apr 2023,Canada,Sweden,N/A,1260983
+Jun 2023,Canada,Sweden,N/A,2659618
+Aug 2023,Canada,Ukraine,N/A,41780089
+Dec 2021,Canada,United Arab Emirates,N/A,2701
+Dec 2022,Canada,United Arab Emirates,N/A,37000
+Jun 2021,Canada,Saudi Arabia,N/A,164311198
+Mar 2023,Canada,Saudi Arabia,N/A,94403739
+May 2023,Canada,Saudi Arabia,N/A,491000
+Nov 2020,Canada,Singapore,N/A,62539
+Nov 2021,Canada,Singapore,N/A,5441709
+Jun 2023,Canada,Indonesia,N/A,102060
+Feb 2021,Canada,Japan,N/A,5714550
+Dec 2022,Canada,"Korea, South",N/A,332424
+Oct 2020,Canada,Australia,N/A,307801
+Jan 2022,Canada,Australia,N/A,599
+Jan 2021,Canada,New Zealand,N/A,7730
+Feb 2023,Canada,New Zealand,N/A,1747
+Sep 2023,Canada,New Zealand,N/A,593
+Oct 2020,Canada,New Zealand,N/A,17572
+Feb 2023,Canada,Haiti,N/A,1513125
+Sep 2020,Canada,United States,Alabama,10379303
+Oct 2020,Canada,United States,Alabama,10755171
+Aug 2021,Canada,United States,Alabama,9341996
+Jul 2023,Canada,United States,Alabama,25450912
+Aug 2023,Canada,United States,Alabama,20235465
+Dec 2020,Canada,United States,Florida,3035
+Apr 2022,Canada,United States,California,44197
+Dec 2022,Canada,United States,California,102752
+Jan 2023,Canada,United States,California,92090
+Jul 2023,Canada,United States,California,22670
+Sep 2020,Canada,United States,Florida,74838
+May 2022,Canada,United States,Indiana,73189
+Feb 2021,Canada,United States,Florida,45032
+Dec 2021,Canada,United States,Florida,7834
+Apr 2022,Canada,United States,Florida,59884
+Jan 2021,Canada,United States,Georgia,9689
+Oct 2022,Canada,United States,Georgia,213476
+Aug 2023,Canada,United States,Georgia,143330
+Sep 2023,Canada,United States,Georgia,374864
+Nov 2021,Canada,United States,Indiana,7344
+Jan 2022,Canada,United States,Indiana,12810
+Mar 2022,Canada,United States,Kentucky,34776
+Oct 2022,Canada,United States,Indiana,5252
+Feb 2023,Canada,United States,Indiana,3308
+Aug 2022,Canada,United States,Kansas,19178
+Oct 2022,Canada,United States,Maryland,1405368
+Feb 2021,Canada,United States,Michigan,3610954
+Nov 2021,Canada,United States,Michigan,3572393
+Feb 2022,Canada,United States,Michigan,579677
+Feb 2023,Canada,United States,Michigan,184034
+May 2023,Canada,United States,Michigan,710676
+Apr 2021,Canada,United States,Minnesota,15098
+Mar 2022,Canada,United States,Mississippi,28886
+Aug 2021,Canada,United States,Missouri,38114
+Nov 2022,Canada,United States,Missouri,85586
+Nov 2020,Canada,United States,Nevada,14636
+May 2022,Canada,United States,Nevada,529547
+Jun 2022,Canada,United States,Nevada,5201
+Sep 2020,Canada,United States,New York,172998
+Jul 2023,Canada,United States,New York,1642153
+Jul 2023,Canada,United States,North Carolina,4061
+Nov 2020,Canada,United States,Ohio,929420
+Feb 2022,Canada,United States,Ohio,1162101
+Jun 2022,Canada,United States,Ohio,1256763
+Aug 2022,Canada,United States,Ohio,497696
+Jan 2023,Canada,United States,Ohio,1141118
+Mar 2023,Canada,United States,Ohio,907073
+Dec 2021,Canada,United States,Pennsylvania,121480
+Mar 2022,Canada,United States,Pennsylvania,537280
+Jan 2023,Canada,United States,Pennsylvania,398780
+Apr 2023,Canada,United States,Pennsylvania,646975
+Nov 2020,Canada,United States,South Carolina,77316
+Aug 2021,Canada,United States,South Carolina,76585
+May 2023,Canada,United States,South Carolina,50654
+Aug 2022,Canada,United States,Tennessee,479813
+Nov 2022,Canada,United States,Tennessee,770893
+Nov 2020,Canada,United States,Texas,140191
+Jan 2022,Canada,United States,Texas,28164
+Feb 2022,Canada,United States,Texas,30079
+Apr 2023,Canada,United States,Texas,422506
+Oct 2022,Canada,United States,Vermont,116706
+Nov 2022,Canada,United States,Vermont,23266
+Nov 2021,Canada,United States,Virginia,18320
+Feb 2023,Canada,United States,Virginia,54532
+Jul 2023,Canada,United States,Washington,1414813
+Aug 2023,Canada,United States,Washington,710346
+Apr 2021,Canada,United States,Wisconsin,291895
+May 2022,Canada,United States,Wisconsin,150138
+Jun 2022,Canada,United States,Wisconsin,75129
+May 2023,Canada,United States,Wisconsin,186903
+Jun 2023,Canada,United States,Wyoming,54740
+Feb 2023,Canada,United States,District of Columbia,7494
+Jul 2021,Canada,United Kingdom,N/A,26170
+Aug 2022,Canada,United Kingdom,N/A,1430
+Sep 2020,Canada,Denmark,N/A,26160
+Mar 2021,Canada,Finland,N/A,43169
+Mar 2023,Canada,Finland,N/A,41250
+Sep 2021,Canada,France,N/A,183811
+Nov 2022,Canada,France,N/A,30086
+Oct 2020,Canada,Germany,N/A,58761
+Mar 2023,Canada,Sweden,N/A,1332893
+Jan 2022,Canada,Norway,N/A,1976073
+Apr 2022,Canada,Norway,N/A,205722
+May 2022,Canada,Norway,N/A,611385
+Sep 2021,Canada,Spain,N/A,711526
+Apr 2021,Canada,Sweden,N/A,580077
+Mar 2022,Canada,Sweden,N/A,1766825
+Jul 2023,Canada,Sweden,N/A,1983929
+Jan 2021,Canada,Switzerland,N/A,3828
+Dec 2022,Canada,Ukraine,N/A,30876131
+Feb 2023,Canada,Ukraine,N/A,8066772
+Sep 2023,Canada,Ukraine,N/A,32835476
+Nov 2020,Canada,Saudi Arabia,N/A,2654573
+Jan 2021,Canada,Saudi Arabia,N/A,487867497
+Feb 2021,Canada,Saudi Arabia,N/A,231496005
+Dec 2021,Canada,Saudi Arabia,N/A,1326773
+Feb 2022,Canada,Saudi Arabia,N/A,76214777
+Aug 2022,Canada,Saudi Arabia,N/A,132445056
+Jun 2023,Canada,"Korea, South",N/A,115252
+Jan 2023,Canada,Bangladesh,N/A,2248368
+Feb 2021,Canada,Hong Kong,N/A,4120716
+Oct 2022,Canada,Singapore,N/A,2727695
+Dec 2022,Canada,Singapore,N/A,2066177
+Jul 2023,Canada,Singapore,N/A,1773821
+Jun 2022,Canada,"Korea, South",N/A,1194816
+Oct 2022,Canada,"Korea, South",N/A,464095
+Dec 2020,Canada,Australia,N/A,10986
+Jun 2023,Canada,Australia,N/A,21826
+Mar 2023,Canada,New Zealand,N/A,24640
+Mar 2023,Canada,Chile,N/A,22625
+Jul 2023,Canada,Colombia,N/A,225151
+Oct 2022,Canada,Haiti,N/A,6212429
+Feb 2022,Canada,United States,Alabama,11847949
+Nov 2022,Canada,United States,Alabama,24644381
+Jun 2023,Canada,United States,Arizona,3132
+Aug 2023,Canada,United States,Arizona,11840
+Feb 2021,Canada,United States,California,40139
+Aug 2021,Canada,United States,California,227101
+Jun 2022,Canada,United States,California,6919
+Apr 2023,Canada,United States,California,282750
+Oct 2021,Canada,United States,Connecticut,24189
+Dec 2021,Canada,United States,Connecticut,10558
+Jul 2021,Canada,United States,Delaware,217785
+Oct 2020,Canada,United States,Florida,26856
+Mar 2021,Canada,United States,Florida,105169
+Mar 2022,Canada,United States,Florida,96581
+Jan 2023,Canada,United States,Florida,10449
+Apr 2022,Canada,United States,Georgia,31260
+Jun 2023,Canada,United States,Georgia,183155
+Dec 2021,Canada,United States,Illinois,16818
+Aug 2023,Canada,United States,Illinois,32366
+Jan 2021,Canada,United States,Indiana,9164
+Apr 2021,Canada,United States,Indiana,25949
+Aug 2021,Canada,United States,Indiana,16277
+Sep 2021,Canada,United States,Indiana,26482
+Mar 2023,Canada,United States,Indiana,11718
+Jul 2023,Canada,United States,Indiana,27739
+Aug 2023,Canada,United States,Indiana,29423
+May 2021,Canada,United States,Iowa,41816
+Aug 2021,Canada,United States,Iowa,63057
+Jul 2022,Canada,United States,Maine,60948
+Dec 2021,Canada,United States,Maryland,2899
+Nov 2022,Canada,United States,Maryland,86541
+Dec 2020,Canada,United States,Michigan,6273648
+Apr 2021,Canada,United States,Michigan,534345
+Jan 2023,Canada,United States,Michigan,310766
+Jun 2023,Canada,United States,Michigan,1410112
+Aug 2023,Canada,United States,Michigan,1759075
+Sep 2020,Canada,United States,Minnesota,251101
+Dec 2020,Canada,United States,Minnesota,42893
+Nov 2021,Canada,United States,Minnesota,36199
+Dec 2022,Canada,United States,Minnesota,62489
+May 2021,Canada,United States,Mississippi,14214
+Sep 2021,Canada,United States,Mississippi,6884
+Sep 2021,Canada,United States,Nevada,364155
+Nov 2022,Canada,United States,Nevada,13785
+Apr 2021,Canada,United States,New Jersey,5999
+Dec 2022,Canada,United States,New York,142241
+May 2021,Canada,United States,North Carolina,3730
+Dec 2020,Canada,United States,Ohio,995408
+Sep 2021,Canada,United States,Ohio,1192220
+Jan 2022,Canada,United States,Ohio,764213
+Mar 2021,Canada,United States,Pennsylvania,264811
+Apr 2022,Canada,United States,Pennsylvania,886289
+Sep 2022,Canada,United States,Pennsylvania,4426018
+Mar 2023,Canada,United States,Pennsylvania,448192
+Jul 2023,Canada,United States,Pennsylvania,98830
+Mar 2023,Canada,United States,South Carolina,100563
+Oct 2020,Canada,United States,Texas,149088
+Jan 2021,Canada,United States,Virginia,91396
+Jul 2021,Canada,United States,Virginia,19405
+Jul 2022,Canada,United States,Virginia,58237
+Apr 2023,Canada,United States,Virginia,84564
+Sep 2023,Canada,United States,Virginia,252702
+Oct 2020,Canada,United States,Washington,1930689
+Oct 2021,Canada,United States,Washington,1326610
+Oct 2022,Canada,United States,Washington,1119564
+Mar 2023,Canada,United States,Washington,1280185
+Sep 2023,Canada,United States,Washington,1622536
+Jul 2021,Canada,United States,Wisconsin,112743
+Oct 2021,Canada,United States,Wisconsin,6825
+Nov 2021,Canada,United States,Wisconsin,14407
+Mar 2022,Canada,United States,Wisconsin,71165
+Jan 2023,Canada,United States,Wisconsin,57243
+Mar 2023,Canada,United States,Wisconsin,147689
+Jul 2022,Canada,Denmark,N/A,89474
+Nov 2020,Canada,France,N/A,277640
+Oct 2020,Canada,France,N/A,7556
+Sep 2022,Canada,Germany,N/A,38404957
+Dec 2022,Canada,Germany,N/A,2482886
+Jul 2023,Canada,Germany,N/A,194306
+May 2023,Canada,Italy,N/A,75085
+Oct 2020,Canada,Norway,N/A,1315593
+Aug 2022,Canada,Norway,N/A,1146968
+Sep 2022,Canada,Spain,N/A,760522
+Jan 2021,Canada,Sweden,N/A,292633
+Oct 2022,Canada,Sweden,N/A,1831130
+Sep 2023,Canada,Sweden,N/A,2875544
+Mar 2021,Canada,Switzerland,N/A,5075
+Jul 2021,Canada,Switzerland,N/A,270492
+May 2023,Canada,Poland,N/A,37021813
+Nov 2020,Canada,Kazakhstan,N/A,92490
+Apr 2021,Canada,Saudi Arabia,N/A,173512185
+Apr 2022,Canada,Saudi Arabia,N/A,78446705
+Dec 2022,Canada,Saudi Arabia,N/A,9875680
+Apr 2022,Canada,Niger,N/A,393199
+Feb 2023,Canada,India,N/A,2075
+Dec 2020,Canada,Singapore,N/A,4347545
+Aug 2021,Canada,Singapore,N/A,1231116
+Dec 2021,Canada,Singapore,N/A,2607046
+Feb 2022,Canada,Singapore,N/A,5199776
+Nov 2022,Canada,"Korea, South",N/A,1276265
+Feb 2023,Canada,"Korea, South",N/A,381498
+Oct 2021,Canada,Australia,N/A,158973
+Mar 2023,Canada,Australia,N/A,856
+May 2023,Canada,Australia,N/A,52985
+Apr 2022,Canada,New Zealand,N/A,1767
+Jun 2023,Canada,New Zealand,N/A,35946
+Aug 2022,Canada,Brazil,N/A,5372
+Jun 2021,Canada,United States,Alabama,10728652
+Sep 2021,Canada,United States,Alabama,11347152
+Dec 2021,Canada,United States,Alabama,8823045
+Mar 2022,Canada,United States,Alabama,11959049
+Dec 2022,Canada,United States,Alabama,17961512
+Jun 2023,Canada,United States,Alabama,20059648
+Mar 2021,Canada,United States,Arizona,599916
+Sep 2020,Canada,United States,California,23338
+Mar 2021,Canada,United States,California,478070
+Dec 2021,Canada,United States,California,69667
+Jun 2021,Canada,United States,Connecticut,14823
+Jun 2021,Canada,United States,Florida,31577
+May 2022,Canada,United States,Florida,35312
+Mar 2021,Canada,United States,Georgia,235337
+Apr 2023,Canada,United States,Georgia,71469
+Nov 2022,Canada,United States,Indiana,38115
+Jun 2023,Canada,United States,Indiana,34746
+Jan 2021,Canada,United States,Iowa,16271
+Feb 2021,Canada,United States,Maryland,36307
+Sep 2022,Canada,United States,Maryland,324986
+Aug 2022,Canada,United States,Michigan,2156061
+Sep 2022,Canada,United States,Michigan,605873
+Dec 2020,Canada,United States,Nevada,21144
+Mar 2023,Canada,United States,Nevada,258586
+Sep 2022,Canada,United States,New Jersey,8364
+Nov 2020,Canada,United States,New York,1932176
+Apr 2021,Canada,United States,New York,1817848
+Jul 2021,Canada,United States,New York,2218449
+Oct 2021,Canada,United States,New York,1303999
+Nov 2022,Canada,United States,New York,34628
+May 2023,Canada,United States,New York,756607
+Sep 2023,Canada,United States,New York,13806
+Nov 2020,Canada,United States,North Carolina,3937
+Oct 2022,Canada,United States,North Carolina,8195
+Oct 2020,Canada,United States,Ohio,963649
+Dec 2021,Canada,United States,Ohio,1073393
+May 2022,Canada,United States,Ohio,756178
+Dec 2022,Canada,United States,Pennsylvania,157439
+Oct 2020,Canada,United States,Pennsylvania,33312
+Feb 2021,Canada,United States,Pennsylvania,207175
+Jun 2023,Canada,United States,Pennsylvania,403888
+Nov 2021,Canada,United States,South Carolina,52488
+Dec 2021,Canada,United States,South Carolina,1411972
+Mar 2021,Canada,United States,Virginia,18326
+Jun 2022,Canada,United States,Virginia,248062
+Aug 2022,Canada,United States,Virginia,21657
+Sep 2020,Canada,United States,Washington,1889405
+Dec 2020,Canada,United States,Washington,2143830
+Feb 2021,Canada,United States,Washington,3513059
+Apr 2021,Canada,United States,Washington,862640
+Aug 2021,Canada,United States,Washington,2153907
+Dec 2021,Canada,United States,Washington,963679
+Jan 2022,Canada,United States,Washington,2884067
+May 2021,Canada,United States,Wisconsin,185878
+Aug 2021,Canada,United States,Wisconsin,31452
+Jan 2022,Canada,United States,Wisconsin,10343
+Apr 2023,Canada,United States,Wisconsin,71603
+Sep 2023,Canada,United States,Wisconsin,830660
+Feb 2021,Canada,United Kingdom,N/A,175516
+Mar 2021,Canada,United Kingdom,N/A,200000
+Jun 2021,Canada,United Kingdom,N/A,599533
+Jun 2023,Canada,United Kingdom,N/A,25888
+Sep 2023,Canada,France,N/A,40100
+Apr 2023,Canada,Germany,N/A,2447930
+Mar 2022,Canada,Norway,N/A,360289
+Mar 2023,Canada,Norway,N/A,581320
+Oct 2021,Canada,Spain,N/A,10000
+Oct 2020,Canada,Sweden,N/A,187241
+Jun 2021,Canada,Sweden,N/A,1263146
+Nov 2021,Canada,Sweden,N/A,6859
+Nov 2022,Canada,Sweden,N/A,1407364
+Feb 2023,Canada,Sweden,N/A,1487327
+Aug 2023,Canada,Sweden,N/A,3458088
+Aug 2021,Canada,Switzerland,N/A,270492
+Mar 2023,Canada,Poland,N/A,15701798
+Sep 2022,Canada,United Arab Emirates,N/A,37000
+Aug 2021,Canada,Saudi Arabia,N/A,376630
+Jan 2022,Canada,Saudi Arabia,N/A,83232970
+Mar 2022,Canada,Saudi Arabia,N/A,69711971
+Sep 2022,Canada,Saudi Arabia,N/A,123476485
+Jan 2023,Canada,Saudi Arabia,N/A,118767355
+Aug 2023,Canada,Saudi Arabia,N/A,1511692
+Sep 2023,Canada,Saudi Arabia,N/A,153243406
+Jan 2021,Canada,Singapore,N/A,10413
+Jan 2022,Canada,Singapore,N/A,381309
+Sep 2022,Canada,"Korea, South",N/A,1026157
+Sep 2020,Canada,Australia,N/A,587857
+Feb 2021,Canada,Australia,N/A,79787
+Dec 2022,Canada,Peru,N/A,2312
+May 2021,Canada,Australia,N/A,980127
+Dec 2021,Canada,Australia,N/A,13657
+Jul 2023,Canada,Australia,N/A,7672
+Aug 2023,Canada,Australia,N/A,3431
+Sep 2023,Canada,Australia,N/A,3149
+Aug 2021,Canada,New Zealand,N/A,30206
+Aug 2023,Canada,New Zealand,N/A,69662
+Aug 2022,Canada,Haiti,N/A,377322
+Nov 2021,Canada,United States,Alabama,11027412
+Sep 2022,Canada,United States,Alabama,18578607
+Feb 2023,Canada,United States,Alabama,19313518
+Jul 2021,Canada,United States,California,22966
+Mar 2021,Canada,United States,Connecticut,2918
+Feb 2022,Canada,United States,Connecticut,4092
+Jul 2022,Canada,United States,Connecticut,10130
+Sep 2022,Canada,United States,Florida,15496
+Jun 2021,Canada,United States,Georgia,181082
+Jul 2023,Canada,United States,Georgia,44731
+Mar 2022,Canada,United States,Illinois,40766
+Sep 2022,Canada,United States,Illinois,318657
+Feb 2021,Canada,United States,Indiana,4315
+Oct 2021,Canada,United States,Indiana,18924
+Jan 2023,Canada,United States,Indiana,24333
+Mar 2021,Canada,United States,Iowa,17253
+Jan 2022,Canada,United States,Iowa,43507
+Aug 2022,Canada,United States,Louisiana,23390
+Jan 2021,Canada,United States,Maryland,332431
+Aug 2022,Canada,United States,Maryland,39978
+Sep 2020,Canada,United States,Maryland,62677
+Oct 2020,Canada,United States,Michigan,5320955
+May 2021,Canada,United States,Michigan,170975
+Jul 2022,Canada,United States,Michigan,552278
+Sep 2023,Canada,United States,Michigan,1001945
+Feb 2021,Canada,United States,Minnesota,79506
+May 2021,Canada,United States,Minnesota,46270
+Sep 2021,Canada,United States,Minnesota,26060
+Jan 2023,Canada,United States,Minnesota,16967
+Oct 2021,Canada,United States,Mississippi,39768
+Jan 2022,Canada,United States,Mississippi,81626
+Feb 2022,Canada,United States,Mississippi,66561
+Jan 2023,Canada,United States,Nevada,10404
+Feb 2022,Canada,United States,New Hampshire,16919
+Nov 2022,Canada,United States,Ohio,1281934
+Apr 2023,Canada,United States,Ohio,1169881
+Oct 2020,Canada,United States,New York,1381313
+Jun 2022,Canada,United States,New York,861483
+Jul 2022,Canada,United States,New York,466871
+Aug 2023,Canada,United States,New York,637984
+Oct 2021,Canada,United States,Ohio,560850
+Jul 2023,Canada,United States,Ohio,971040
+Jan 2022,Canada,United States,Pennsylvania,16482
+Feb 2022,Canada,United States,Pennsylvania,22872
+Jul 2022,Canada,United States,Pennsylvania,793776
+Nov 2022,Canada,United States,Pennsylvania,853921
+Sep 2023,Canada,United States,Pennsylvania,92551
+Jan 2021,Canada,United States,Texas,9791
+Nov 2021,Canada,United States,Rhode Island,19805
+Oct 2021,Canada,United States,South Carolina,49385
+Jan 2022,Canada,United States,South Carolina,10510
+Mar 2021,Canada,United States,Texas,245962
+Sep 2021,Canada,United States,Texas,26589
+Jul 2022,Canada,United States,Texas,76656
+Jul 2023,Canada,United States,Texas,3710
+Sep 2022,Canada,United States,Virginia,36901
+May 2023,Canada,United States,Virginia,191500
+May 2022,Canada,United States,Washington,1075699
+Aug 2023,Canada,United States,Virginia,62362
+Nov 2020,Canada,United States,Washington,2998656
+Sep 2021,Canada,United States,Washington,2172533
+Nov 2021,Canada,United States,Washington,1374695
+Sep 2022,Canada,United States,Washington,1694484
+Dec 2022,Canada,United States,Washington,918252
+Jun 2023,Canada,United States,Washington,1440426
+Sep 2020,Canada,United States,Wisconsin,191006
+Feb 2021,Canada,United States,Wisconsin,63326
+Sep 2021,Canada,United States,Wisconsin,38133
+Jun 2023,Canada,United States,Wisconsin,237367
+Sep 2020,Canada,Belgium,N/A,166
+Feb 2021,Canada,Finland,N/A,92076
+Apr 2021,Canada,France,N/A,21169
+Dec 2021,Canada,France,N/A,44999
+Nov 2021,Canada,Germany,N/A,40996781
+May 2023,Canada,Germany,N/A,56383
+Jun 2023,Canada,Germany,N/A,631612
+Jul 2021,Canada,Norway,N/A,550023
+Jun 2022,Canada,Norway,N/A,2097394
+Jul 2022,Canada,Norway,N/A,717969
+Sep 2020,Canada,Spain,N/A,544869
+Aug 2021,Canada,Sweden,N/A,148392
+Feb 2022,Canada,Sweden,N/A,122460
+Jul 2022,Canada,Sweden,N/A,278125
+Sep 2022,Canada,Sweden,N/A,37476
+Aug 2022,Canada,Switzerland,N/A,226046
+Nov 2022,Canada,Poland,N/A,1071658
+Sep 2023,Canada,Bosnia and Herzegovina,N/A,1581429
+Nov 2022,Canada,Ukraine,N/A,18333677
+Jul 2023,Canada,Ukraine,N/A,24262740
+Sep 2023,Canada,United Arab Emirates,N/A,34299
+Sep 2020,Canada,Saudi Arabia,N/A,140632711
+Oct 2020,Canada,Saudi Arabia,N/A,28645596
+May 2021,Canada,Saudi Arabia,N/A,164495820
+Jun 2022,Canada,Saudi Arabia,N/A,441129
+Jul 2022,Canada,Saudi Arabia,N/A,28050343
+Apr 2023,Canada,Saudi Arabia,N/A,242076438
+Apr 2021,Canada,Australia,N/A,739075
+Dec 2022,Canada,Hong Kong,N/A,407760
+Jun 2021,Canada,Singapore,N/A,445935
+Jul 2022,Canada,Singapore,N/A,2539797
+Nov 2022,Canada,Singapore,N/A,825135
+Jun 2023,Canada,Singapore,N/A,1515118
+Aug 2022,Canada,"Korea, South",N/A,19383
+Sep 2022,Canada,Viet Nam,N/A,2936840
+Jan 2021,Canada,Australia,N/A,395
+Mar 2021,Canada,Australia,N/A,16161
+Feb 2022,Canada,Australia,N/A,426
+Mar 2021,Canada,New Zealand,N/A,35287
+Oct 2022,Canada,New Zealand,N/A,23509
+Nov 2020,Canada,New Caledonia,N/A,1637
+Nov 2022,Canada,Brazil,N/A,3316288
+Jul 2022,Canada,Brazil,N/A,22974
+May 2021,Canada,Colombia,N/A,1422
