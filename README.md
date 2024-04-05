@@ -1,2 +1,2 @@
 # test-data
-Simple datasets for testing and experimenting
+Datasets for testing and experimenting
